@@ -1,0 +1,4 @@
+classes= 42  # 类别数，根据你的需要修改
+train=data/custom/train.txt
+valid=data/custom/valid.txt
+names=data/custom/classes.names
